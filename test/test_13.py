@@ -1,6 +1,5 @@
 import sys
 from io import StringIO
-import pytest
 from src.ejercicio13 import eco
 
 def simular_entrada(entrada):

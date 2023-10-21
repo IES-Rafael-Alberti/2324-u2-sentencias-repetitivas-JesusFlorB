@@ -1,5 +1,4 @@
 from src.ejercicio11 import mostrar_letras_inverso
-import pytest
 from io import StringIO
 import sys
 
